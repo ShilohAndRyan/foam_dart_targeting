@@ -1,0 +1,15 @@
+<package>
+  <description brief="missile_launcher">
+     Package for interacting with Dream Cheeky foam missile launchers
+  </description>
+
+  <author email="shilohc@mit.edu">Shiloh Curtis</author>
+  <license>MIT</license>
+
+  <url type="website">https://github.com/ShilohAndRyan/foam_dart_targeting/blob/master/README.md</url>
+
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+</package>
+
+
